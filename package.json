@@ -1,0 +1,8 @@
+{
+  "name": "line-bot-with-imgur-image-reply-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
