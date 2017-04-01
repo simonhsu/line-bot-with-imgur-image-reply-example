@@ -1,18 +1,18 @@
-A Line Bot will reply image from selected Imgur album while some messages hit by predifined `keyword` 
+A Line Bot will reply image from selected Imgur album while some messages hit by predefined `keyword`
 ============
 
 This bot will work on google cloud functions ( treat google cloud functions as line webhook service )
 
 ## Prepare
 
-** [Imgur](http://imgur.com/) **
+**[Imgur](http://imgur.com/)**
 - Create imgur account & application, and get imgur app token
 - Create album and upload some images, and get album id
 
-** [LINE](https://business.line.me/zh-hant/) **
+**[LINE](https://business.line.me/zh-hant/)**
 - Create a Line Bot Account, and get Line Channnel Access Token
 
-** [Google Cloud Functions](https://cloud.google.com/functions/) **
+**[Google Cloud Functions](https://cloud.google.com/functions/)**
 - Create a google cloud function, and set the triggered function name as `reply`
 - Copy The content of these two files ( index.js, package.json ) to the cloud functions you created. ( use online editor )
 
