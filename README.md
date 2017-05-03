@@ -3,6 +3,8 @@ A Line Bot will reply image from selected Imgur album while some messages hit by
 
 This bot will work on google cloud functions ( treat google cloud functions as line webhook service )
 
+Article : http://bit.ly/linebot_w_imgur
+
 ## Prepare
 
 **[Imgur](http://imgur.com/)**
